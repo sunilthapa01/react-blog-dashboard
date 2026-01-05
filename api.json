@@ -1,0 +1,50 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "name": "Sunil Sharma",
+      "email": "sunil.sharma92@gmail.com",
+      "password": "Sunil@4821"
+    },
+    {
+      "id": 2,
+      "name": "Aman Verma",
+      "email": "aman.verma87@yahoo.com",
+      "password": "Aman#9032"
+    },
+    {
+      "id": 3,
+      "name": "Rohit Gupta",
+      "email": "rohit.gupta15@outlook.com",
+      "password": "Rohit$7710"
+    },
+    {
+      "id": 4,
+      "name": "Neha Singh",
+      "email": "neha.singh44@gmail.com",
+      "password": "Neha@6612"
+    },
+    {
+      "id": 5,
+      "name": "Priya Mehta",
+      "email": "priya.mehta09@gmail.com",
+      "password": "Priya!5588"
+    }
+  ]
+  ,
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
